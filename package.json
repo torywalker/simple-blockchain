@@ -11,12 +11,16 @@
     "crypto",
     "coin",
     "cryptography",
-    "cryptocurrency",
-    "bitcoin"
+    "cryptocurrency"
   ],
   "author": "Tory Walker <toryjwalker@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^3.1.9-1"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
   }
 }
